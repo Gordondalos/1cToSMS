@@ -1,0 +1,12 @@
+D:\mail.ru\Разработка\SmsSender\SmsSender\bin\Debug\SmsSender.exe.config
+D:\mail.ru\Разработка\SmsSender\SmsSender\bin\Debug\SmsSender.exe
+D:\mail.ru\Разработка\SmsSender\SmsSender\bin\Debug\SmsSender.pdb
+D:\mail.ru\Разработка\SmsSender\SmsSender\obj\Debug\SmsSender.csprojResolveAssemblyReference.cache
+D:\mail.ru\Разработка\SmsSender\SmsSender\obj\Debug\SmsSender.exe
+D:\mail.ru\Разработка\SmsSender\SmsSender\obj\Debug\SmsSender.pdb
+C:\Users\gordondalos\Desktop\recjon20150325\Root\mail.ru\Разработка\SmsSender\SmsSender\bin\Debug\SmsSender.exe.config
+C:\Users\gordondalos\Desktop\recjon20150325\Root\mail.ru\Разработка\SmsSender\SmsSender\obj\Debug\SmsSender.exe
+C:\Users\gordondalos\Desktop\recjon20150325\Root\mail.ru\Разработка\SmsSender\SmsSender\obj\Debug\SmsSender.pdb
+C:\Users\gordondalos\Desktop\recjon20150325\Root\mail.ru\Разработка\SmsSender\SmsSender\bin\Debug\SmsSender.exe
+C:\Users\gordondalos\Desktop\recjon20150325\Root\mail.ru\Разработка\SmsSender\SmsSender\bin\Debug\SmsSender.pdb
+C:\Users\gordondalos\Desktop\recjon20150325\Root\mail.ru\Разработка\SmsSender\SmsSender\obj\Debug\SmsSender.csprojResolveAssemblyReference.cache
